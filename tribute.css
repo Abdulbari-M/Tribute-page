@@ -1,0 +1,36 @@
+html {
+  font-size: 16px;
+}
+body {
+    max-width: 400px;
+    height: auto;
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: hsl(160 50% 80%);
+    color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50%;
+    float: right;
+    border: solid;
+  }
+
+  #main{
+      color: rgb(0 0 128);
+      font-family: oxygen;
+  }
+
+  #tribute-info ul {
+list-style-type: none;
+  }
